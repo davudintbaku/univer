@@ -1,0 +1,183 @@
+.sidebar{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 20%;
+    background-color: aqua;
+}
+.imgcon{
+    position: absolute;
+    top: 17%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    border: 1px solid black;
+}
+.imgp{
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+}
+.line{
+    position: absolute;
+    top: 44%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    height: 2px;
+    width: 80%;
+    background-color: black;
+}
+.uniname{
+    position: absolute;
+    top: 48%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+}
+.fak{
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+}
+.ixtisas{
+    position: absolute;
+    top: 56%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+}
+.qup{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+}
+
+
+    .navbar{
+        position: absolute;
+        top: 5%;
+        left: 22%;
+        height: 30%;
+        width: 76%;
+        border-radius: 15px;
+        background-color: gray;
+    }
+    .con1{
+        position: absolute;
+        top: 15%;
+        left: 10%;
+        height: 70%;
+        width: 13%;
+        background-color: white;
+    }
+    .con2{
+        position: absolute;
+        top: 15%;
+        left: 35%;
+        height: 70%;
+        width: 13%;
+        background-color: white;
+    }   .con3{
+        position: absolute;
+        top: 15%;
+        left: 55%;
+        height: 70%;
+        width: 13%;
+        background-color: white;
+    }   .con4{
+        position: absolute;
+        top: 15%;
+        left: 75%;
+        height: 70%;
+        width: 13%;
+        background-color: white;
+    }
+    .fakult1{
+        position: absolute;
+        top: 5%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        font-size: 20px;
+        color: black;
+    }
+    .fakult2{
+        position: absolute;
+        top: 5%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        font-size: 20px;
+        color: black;
+    }   .fakult3{
+        position: absolute;
+        top: 5%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        font-size: 20px;
+        color: black;
+    }   .fakult4{
+        position: absolute;
+        top: 5%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        font-size: 20px;
+        color: black;
+    }
+    .say11{
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        font-size: 15px;
+        color: black;
+    }
+    .say12{
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        font-size: 15px;
+        color: black;
+    }
+    .say13{
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        font-size: 15px;
+        color: black;
+    }
+    .say14{
+        position: absolute;
+        top: 60%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        font-size: 15px;
+        color: black;
+    }
+
+    .main-container {
+        position: absolute;
+        width: 55%;
+        height: 40%;
+        background-color: gainsboro;
+        left: 30%;
+        top: 10%;
+        border-radius: 30px;
+        padding-left: 50px;
+        text-align: center;
+    }
+
+    .main-container h3{
+        color: #0485CD;
+        text-align: center;
+    }
